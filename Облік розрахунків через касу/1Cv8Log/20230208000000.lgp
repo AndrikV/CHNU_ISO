@@ -18271,4 +18271,150 @@ Data history usage changed: InformationRegister.ЦіниНоменклатури
 {0,0},3,1,1,1,4,I,"",0,
 {"U"},"",0,0,0,2,0,
 {0}
+},
+{20230504183907,N,
+{0,0},0,1,1,1,13,I,"",0,
+{"P",
+{1,
+{"S","ANDRIKVAKAR\Legion"}
+}
+},"",0,0,0,2,0,
+{0}
+},
+{20230504183910,N,
+{0,0},3,1,1,1,1,I,"",0,
+{"P",
+{6,
+{"S","Адмін"},
+{"S","ANDRIKVAKAR\Legion"}
+}
+},"",0,0,0,2,0,
+{0}
+},
+{20230504183910,N,
+{0,0},3,1,1,1,2,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230504183915,N,
+{0,0},3,1,1,1,4,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230504184014,N,
+{0,0},0,1,1,1,13,I,"",0,
+{"P",
+{1,
+{"S","ANDRIKVAKAR\Legion"}
+}
+},"",0,0,0,2,0,
+{0}
+},
+{20230504184014,N,
+{0,0},3,1,1,1,1,I,"",0,
+{"P",
+{6,
+{"S","Адмін"},
+{"S","ANDRIKVAKAR\Legion"}
+}
+},"",0,0,0,2,0,
+{0}
+},
+{20230504184014,N,
+{0,0},3,1,1,1,2,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230504184154,N,
+{0,0},3,1,1,1,3,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230504184154,N,
+{0,0},3,1,1,1,5,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230504184214,N,
+{0,0},3,1,1,1,3,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230504184214,N,
+{0,0},3,1,1,1,5,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230504184214,N,
+{0,0},3,1,1,1,6,I,"Predefined data update",4,
+{"P",
+{1,
+{"Data",
+{"Z",
+{2,1,
+{"PredefinedDataName",
+{"Pattern",
+{"S"}
+}
+},
+{"ChangeType",
+{"Pattern",
+{"S"}
+}
+},
+{
+{"S","шт"},
+{"S","Delete"}
+}
+}
+}
+}
+}
+},"",0,0,0,2,0,
+{0}
+},
+{20230504184216,N,
+{0,0},3,1,1,1,7,I,"Object modified: Document.ВстановленняЦінНоменклатури
+Object modified: Catalog.Співробітники
+Object modified: Catalog.ОдиниціВиміру
+Object modified: Catalog.Склади
+Object modified: Catalog.Контрагенти
+Object modified: Catalog.Підрозділи
+Object modified: Catalog.Посади
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Співробітники
+Data history usage changed: Catalog.ОдиниціВиміру
+Data history usage changed: Catalog.Склади
+Data history usage changed: Catalog.Контрагенти
+Data history usage changed: Catalog.Підрозділи
+Data history usage changed: Catalog.Посади
+Data history usage changed: Document.ВстановленняЦінНоменклатури
+Object modified: Catalog.Каса",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230504184216,N,
+{0,0},3,1,1,1,7,I,"Object modified: Document.ВстановленняЦінНоменклатури
+Object modified: Catalog.Співробітники
+Object modified: Catalog.ОдиниціВиміру
+Object modified: Catalog.Склади
+Object modified: Catalog.Контрагенти
+Object modified: Catalog.Підрозділи
+Object modified: Catalog.Посади
+Object modified: The data history metadata table
+Data history usage changed: Catalog.Співробітники
+Data history usage changed: Catalog.ОдиниціВиміру
+Data history usage changed: Catalog.Склади
+Data history usage changed: Catalog.Контрагенти
+Data history usage changed: Catalog.Підрозділи
+Data history usage changed: Catalog.Посади
+Data history usage changed: Document.ВстановленняЦінНоменклатури
+Object modified: Catalog.Каса",0,
+{"U"},"",0,0,0,2,0,
+{0}
+},
+{20230504184222,N,
+{0,0},3,1,1,1,4,I,"",0,
+{"U"},"",0,0,0,2,0,
+{0}
 }
