@@ -92,4 +92,6 @@ e1dc1f14-fb2d-40c6-ad25-3185ef55174b
 {4,"_$InfoBase$_.RestoreFinish",26},
 {4,"_$Data$_.Delete",27},
 {4,"_$Data$_.Post",28},
-{4,"_$Data$_.Unpost",29}
+{4,"_$Data$_.Unpost",29},
+{5,819516cd-9b08-49e7-843a-38b713aade8a,"Constant.КасирЗаЗамовчуванням",22},
+{5,cf39bcde-5fb8-49fa-bece-f9b1a0c64f76,"Constant.КасаЗаЗамовчуванням",23}
